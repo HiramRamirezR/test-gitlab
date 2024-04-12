@@ -3,7 +3,7 @@ deploy:
   before_script:
     - echo "before_script"
   script:
-    - echo "deploy"
+    - echo "test"
 
 stages: 
   - deploy
